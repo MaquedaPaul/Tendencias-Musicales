@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e73dde-eac2-49eb-8c2e-a8940aa78558" name="Changes" comment="Projecto base &quot;Tendencias Musicales&quot;" />
+    <list default="true" id="32e73dde-eac2-49eb-8c2e-a8940aa78558" name="Changes" comment="Merge rama local y rama online" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +74,7 @@
       <updated>1707609498078</updated>
       <workItem from="1707609499875" duration="1026000" />
       <workItem from="1707610562563" duration="5920000" />
+      <workItem from="1707655006516" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="Projecto base &quot;Tendencias Musicales&quot;">
       <option name="closed" value="true" />
@@ -83,7 +84,47 @@
       <option name="project" value="LOCAL" />
       <updated>1707653873064</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modificación automática workspace.xml">
+      <option name="closed" value="true" />
+      <created>1707655100709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655100709</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Agrego código proporcionado">
+      <option name="closed" value="true" />
+      <created>1707655129143</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655129143</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Planteo clases troncales para la implementación">
+      <option name="closed" value="true" />
+      <created>1707655152288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655152288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Agrego popularidades y sus tipos">
+      <option name="closed" value="true" />
+      <created>1707655166792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655166792</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge rama local y rama online">
+      <option name="closed" value="true" />
+      <created>1707655379603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655379603</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +132,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projecto base &quot;Tendencias Musicales&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projecto base &quot;Tendencias Musicales&quot;" />
+    <MESSAGE value="Modificación automática workspace.xml" />
+    <MESSAGE value="Agrego código proporcionado" />
+    <MESSAGE value="Planteo clases troncales para la implementación" />
+    <MESSAGE value="Agrego popularidades y sus tipos" />
+    <MESSAGE value="Merge rama local y rama online" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge rama local y rama online" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
