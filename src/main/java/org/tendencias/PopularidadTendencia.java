@@ -4,6 +4,15 @@ import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 public class PopularidadTendencia extends Popularidad {
+    private static PopularidadTendencia instancia;
+    public static PopularidadTendencia getInstancia() {
+        // Si la instancia aún no ha sido creada, la crea
+        if (instancia == null) {
+            instancia = new PopularidadTendencia();
+        }
+        // Devuelve la instancia única
+        return instancia;
+    }
     Icono icono = Icono.FIRE;
     @Override
     public String formularLeyenda(Cancion cancion) {
@@ -12,11 +21,11 @@ public class PopularidadTendencia extends Popularidad {
 
     @Override
     public Popularidad anteriorEstado() {
-        return new PopularidadNormal();
+        return PopularidadNormal.getInstancia();
     }
 
     @Override
     public Popularidad siguienteEstado() {
-        return new PopularidadTendencia();
+        return this;
     }
 }

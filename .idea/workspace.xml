@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e73dde-eac2-49eb-8c2e-a8940aa78558" name="Changes" comment="Merge rama local y rama online" />
+    <list default="true" id="32e73dde-eac2-49eb-8c2e-a8940aa78558" name="Changes" comment="Modificación automática de workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tendencias/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tendencias/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tendencias/Popularidad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tendencias/Popularidad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadEnAuge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadEnAuge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadNormal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadTendencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/tendencias/PopularidadTendencia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -74,7 +84,10 @@
       <updated>1707609498078</updated>
       <workItem from="1707609499875" duration="1026000" />
       <workItem from="1707610562563" duration="5920000" />
-      <workItem from="1707655006516" duration="379000" />
+      <workItem from="1707655006516" duration="1133000" />
+      <workItem from="1707694130588" duration="2534000" />
+      <workItem from="1707784204298" duration="601000" />
+      <workItem from="1708971977173" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="Projecto base &quot;Tendencias Musicales&quot;">
       <option name="closed" value="true" />
@@ -124,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707655379603</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modificación automática de workspace.xml">
+      <option name="closed" value="true" />
+      <created>1707655531341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707655531341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +158,8 @@
     <MESSAGE value="Planteo clases troncales para la implementación" />
     <MESSAGE value="Agrego popularidades y sus tipos" />
     <MESSAGE value="Merge rama local y rama online" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge rama local y rama online" />
+    <MESSAGE value="Modificación automática de workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificación automática de workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
